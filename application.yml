@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/balokolos/helmargo.git
     targetRevision: HEAD
-    path: dev
+    path: dev/charts/hello-world
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp-02
