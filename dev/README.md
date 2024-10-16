@@ -4,7 +4,7 @@ Ahoy world!  I'm a Helm repository for example charts.
 
 ## Get started
 
-Add this repository to Helm.
+Add this repository to Helm.  test
 
 ```
 helm repo add examples https://helm.github.io/examples
